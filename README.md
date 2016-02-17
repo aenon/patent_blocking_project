@@ -1,2 +1,2 @@
-# patent_blocking_project
-Personal repo for the patent blocking project
+# patent-granting
+Tools for Prediction of Granting of Patent Applications
